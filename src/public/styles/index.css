@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  /* overflow: hidden; */
+  overflow-x: hidden;
 }
 
 body {
@@ -20,6 +20,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow-x: hidden;
 }
 
 #drag-bar {
